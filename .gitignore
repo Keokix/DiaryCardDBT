@@ -1,1 +1,64 @@
-".vs/" 
+# Visual Studio-spezifische Dateien und Ordner
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.code-workspace
+
+# Build-Ordner (sollen nicht ins Repository)
+bin/
+obj/
+out/
+
+# NuGet Packages (werden automatisch wiederhergestellt)
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+PackageRestoreFailed.*
+
+# Debugging & Log-Dateien
+*.pdb
+*.log
+*.tlog
+*.vscode/
+
+# Konfigurationsdateien, die nutzerspezifisch sind
+appsettings.Local.json
+appsettings.Development.json
+
+# Rider / JetBrains IDEs
+.idea/
+*.sln.iml
+
+# Resharper / Sonarlint
+_ReSharper*/
+*.DotSettings.user
+SonarQube/
+
+# Windows- & Systemdateien
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+ehthumbs.db
+
+# Weitere unnötige Dateien
+*.bak
+*.tmp
+*.suo
+*.cache
+*.ipch
+*.ilk
+*.obj
+*.pch
+*.rsp
+*.tlog
+*.pyc
+*.class
+*.csproj.user
+
+# Git-spezifische Dateien
+*.orig
+

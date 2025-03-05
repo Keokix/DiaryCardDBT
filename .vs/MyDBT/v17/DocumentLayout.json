@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|c:\\users\\marce_hpoatx\\onedrive\\desktop\\coding\\dbt manager\\diarycarddbt\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|solutionrelative:services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|c:\\users\\marce_hpoatx\\onedrive\\desktop\\coding\\dbt manager\\diarycarddbt\\services\\datastorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|solutionrelative:services\\datastorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|c:\\users\\marce_hpoatx\\onedrive\\desktop\\coding\\dbt manager\\diarycarddbt\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|solutionrelative:services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|c:\\users\\marce_hpoatx\\onedrive\\desktop\\coding\\dbt manager\\diarycarddbt\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|solutionrelative:services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|c:\\users\\marce_hpoatx\\onedrive\\desktop\\coding\\dbt manager\\diarycarddbt\\model\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|solutionrelative:model\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|c:\\users\\marce_hpoatx\\onedrive\\desktop\\coding\\dbt manager\\diarycarddbt\\model\\attentivenessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|solutionrelative:model\\attentivenessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|c:\\users\\marce_hpoatx\\onedrive\\desktop\\coding\\dbt manager\\diarycarddbt\\model\\diarycarddaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|solutionrelative:model\\diarycarddaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|c:\\users\\marce_hpoatx\\onedrive\\desktop\\coding\\dbt manager\\diarycarddbt\\model\\emotiontreatmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|solutionrelative:model\\emotiontreatmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|c:\\users\\marce_hpoatx\\onedrive\\desktop\\coding\\dbt manager\\diarycarddbt\\model\\attentivenessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|solutionrelative:model\\attentivenessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|c:\\users\\marce_hpoatx\\onedrive\\desktop\\coding\\dbt manager\\diarycarddbt\\model\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|solutionrelative:model\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E3184D2-4D5F-4FCE-AAFC-A9EECE22C49B}|MyDBT.csproj|c:\\users\\marce_hpoatx\\onedrive\\desktop\\coding\\dbt manager\\diarycarddbt\\model\\sportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,11 +102,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Services\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "Services\\StatisticsService.cs",
+              "ToolTip": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Services\\StatisticsService.cs",
+              "RelativeToolTip": "Services\\StatisticsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:20:10.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DataStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Services\\DataStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\DataStorageService.cs",
+              "ToolTip": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Services\\DataStorageService.cs",
+              "RelativeToolTip": "Services\\DataStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:19:55.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Services\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "Services\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Services\\ConfigurationService.cs",
+              "RelativeToolTip": "Services\\ConfigurationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:19:39.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PdfService.cs",
+              "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Services\\PdfService.cs",
+              "RelativeDocumentMoniker": "Services\\PdfService.cs",
+              "ToolTip": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Services\\PdfService.cs",
+              "RelativeToolTip": "Services\\PdfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:19:23.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SelfEsteemModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\SelfEsteemModel.cs",
               "RelativeDocumentMoniker": "Model\\SelfEsteemModel.cs",
@@ -102,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "StressToleranceModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\StressToleranceModel.cs",
               "RelativeDocumentMoniker": "Model\\StressToleranceModel.cs",
@@ -114,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "InterpersonalSkillsModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\InterpersonalSkillsModel.cs",
               "RelativeDocumentMoniker": "Model\\InterpersonalSkillsModel.cs",
@@ -126,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "EmotionTreatmentModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\EmotionTreatmentModel.cs",
               "RelativeDocumentMoniker": "Model\\EmotionTreatmentModel.cs",
@@ -144,25 +212,27 @@
               "RelativeDocumentMoniker": "Model\\AttentivenessModel.cs",
               "ToolTip": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\AttentivenessModel.cs",
               "RelativeToolTip": "Model\\AttentivenessModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T02:33:11.811Z"
+              "WhenOpened": "2025-03-05T02:33:11.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ActivityModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\ActivityModel.cs",
               "RelativeDocumentMoniker": "Model\\ActivityModel.cs",
               "ToolTip": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\ActivityModel.cs",
               "RelativeToolTip": "Model\\ActivityModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T02:28:26.824Z"
+              "WhenOpened": "2025-03-05T02:28:26.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "SportModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\SportModel.cs",
               "RelativeDocumentMoniker": "Model\\SportModel.cs",
@@ -174,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ProblemBehaviorModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\ProblemBehaviorModel.cs",
               "RelativeDocumentMoniker": "Model\\ProblemBehaviorModel.cs",
@@ -186,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "SuperiorGoalModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\SuperiorGoalModel.cs",
               "RelativeDocumentMoniker": "Model\\SuperiorGoalModel.cs",
@@ -198,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "DiaryCardWeekModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\DiaryCardWeekModel.cs",
               "RelativeDocumentMoniker": "Model\\DiaryCardWeekModel.cs",
@@ -210,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "EmotionsModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\EmotionsModel.cs",
               "RelativeDocumentMoniker": "Model\\EmotionsModel.cs",
@@ -222,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "MedicationModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\MedicationModel.cs",
               "RelativeDocumentMoniker": "Model\\MedicationModel.cs",
@@ -234,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "SkillsModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\SkillsModel.cs",
               "RelativeDocumentMoniker": "Model\\SkillsModel.cs",
@@ -246,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "DrugsModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\DrugsModel.cs",
               "RelativeDocumentMoniker": "Model\\DrugsModel.cs",
@@ -258,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "SelfharmModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\SelfharmModel.cs",
               "RelativeDocumentMoniker": "Model\\SelfharmModel.cs",
@@ -270,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\UserModel.cs",
               "RelativeDocumentMoniker": "Model\\UserModel.cs",
@@ -282,20 +352,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "DiaryCardDayModel.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\DiaryCardDayModel.cs",
               "RelativeDocumentMoniker": "Model\\DiaryCardDayModel.cs",
               "ToolTip": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\Model\\DiaryCardDayModel.cs",
               "RelativeToolTip": "Model\\DiaryCardDayModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T19:36:05.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -306,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\marce_hpoatx\\OneDrive\\Desktop\\Coding\\DBT Manager\\DiaryCardDBT\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
